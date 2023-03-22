@@ -1,0 +1,153 @@
+constructor!
+num_car:10 car_capacity:200 num_node(depot + customer):101
+Num_depot: 10
+destructor!
+constructor!
+num_car:10 car_capacity:200 num_node(depot + customer):101
+Num_depot: 10
+constructor!!
+
+time step: 0
+vehicle0 tour: 0 72 96 83 98 21 0  172.9km, visited customer:5, now_time:1500, now_load:70/200
+vehicle1 tour: 8 12 59 30 58 52 26 69 49 47 0  307.6km, visited customer:9, now_time:1507, now_load:120/200
+vehicle2 tour: 2 94 76 31 11 16 34 50 0  307.5km, visited customer:7, now_time:1507, now_load:120/200
+vehicle3 tour: 0 48 54 37 91 75 1  177.9km, visited customer:5, now_time:1503, now_load:100/200
+vehicle4 tour: 1 82 86 85 46 38 93 73 95 2  343.7km, visited customer:8, now_time:1507, now_load:200/200
+vehicle5 tour: 0 20 43 13 32 57 24 33 17 55 0  336.7km, visited customer:9, now_time:1504, now_load:200/200
+vehicle6 tour: 0 67 90 81 42 65 87 78 25 18 41 27 0  364.5km, visited customer:11, now_time:1508, now_load:200/200
+vehicle7 tour: 0 63 40 19 62 35 71 44 74 10 61 0  460.0km, visited customer:10, now_time:1504, now_load:200/200
+vehicle8 tour: 0 53 29 92 15 56 70 84 28 45 0  473.0km, visited customer:9, now_time:1501, now_load:200/200
+vehicle9 tour: 0 60 77 14 64 88 36 79 100 51 89 23 80 99 22 66 0  846.9km, visited customer:15, now_time:1505, now_load:200/200
+total visited customer:88/91
+total distance:3790.8km
+total cost:228047570.9đ
+total penalty cost:600000.0đ
+
+time step: 1
+vehicle0 tour: 0 72 96 83 98 21 0  172.9km, visited customer:5, now_time:1500, now_load:70/200
+vehicle1 tour: 8 12 59 30 58 52 26 69 49 47 0  307.6km, visited customer:9, now_time:1507, now_load:120/200
+vehicle2 tour: 2 94 76 31 11 16 34 50 0  307.5km, visited customer:7, now_time:1507, now_load:120/200
+vehicle3 tour: 0 48 54 37 91 75 1  177.9km, visited customer:5, now_time:1503, now_load:100/200
+vehicle4 tour: 1 82 86 85 46 38 93 73 95 2  343.7km, visited customer:8, now_time:1507, now_load:200/200
+vehicle5 tour: 0 20 43 13 32 57 24 33 17 55 0  336.7km, visited customer:9, now_time:1504, now_load:200/200
+vehicle6 tour: 0 67 90 81 42 65 87 78 25 18 41 27 0  364.5km, visited customer:11, now_time:1508, now_load:200/200
+vehicle7 tour: 0 63 40 19 62 35 71 44 74 10 61 0  460.0km, visited customer:10, now_time:1504, now_load:200/200
+vehicle8 tour: 0 53 29 92 15 56 70 84 28 45 0  473.0km, visited customer:9, now_time:1501, now_load:200/200
+vehicle9 tour: 0 60 77 14 64 88 36 79 100 51 89 23 80 99 22 66 0  846.9km, visited customer:15, now_time:1505, now_load:200/200
+total visited customer:88/91
+total distance:3790.8km
+total cost:228047570.9đ
+total penalty cost:600000.0đ
+
+time step: 2
+
+time step: 3
+
+time step: 4
+vehicle0 tour: 1 75 91 85 88 83 69 49 47 0  109.0km, visited customer:8, now_time:1507, now_load:130/200
+vehicle1 tour: 0 21 26 30 34 36 37 0  84.8km, visited customer:6, now_time:1509, now_load:90/200
+vehicle2 tour: 0 50 48 46 52 31 0  82.8km, visited customer:5, now_time:1509, now_load:80/200
+vehicle3 tour: 0 72 59 82 95 2  147.5km, visited customer:4, now_time:1508, now_load:70/200
+vehicle4 tour: 2 96 94 98 100 12 8  95.2km, visited customer:5, now_time:1507, now_load:80/200
+vehicle5 tour: 0 20 43 67 90 24 32 33 42 55 78 41 86 76 0  386.2km, visited customer:13, now_time:1507, now_load:200/200
+vehicle6 tour: 8 13 57 81 65 87 17 25 27 0  283.6km, visited customer:8, now_time:1502, now_load:200/200
+vehicle7 tour: 0 63 18 54 62 40 53 35 19 71 0  446.8km, visited customer:9, now_time:1506, now_load:200/200
+vehicle8 tour: 8 10 29 44 74 56 70 11 84 73 61 45 0  391.8km, visited customer:11, now_time:1501, now_load:200/200
+vehicle9 tour: 2 92 15 93 16 38 58 0  310.1km, visited customer:6, now_time:1507, now_load:200/200
+total visited customer:75/91
+total distance:2337.7km
+total cost:142460364.0đ
+total penalty cost:2200000.0đ
+
+time step: 5
+
+time step: 6
+
+time step: 7
+
+time step: 8
+
+time step: 9
+
+time step: 10
+
+time step: 11
+
+time step: 12
+
+time step: 13
+
+time step: 14
+
+time step: 15
+
+time step: 16
+
+time step: 17
+
+time step: 18
+
+time step: 19
+
+time step: 20
+
+time step: 21
+
+time step: 22
+
+time step: 23
+
+time step: 24
+
+time step: 25
+
+time step: 26
+
+time step: 27
+
+time step: 28
+
+time step: 29
+
+time step: 30
+
+time step: 31
+
+time step: 32
+
+time step: 33
+
+time step: 34
+
+time step: 35
+
+time step: 36
+
+time step: 37
+
+time step: 38
+
+time step: 39
+
+time step: 40
+
+time step: 41
+
+time step: 42
+
+time step: 43
+
+time step: 44
+
+time step: 45
+
+time step: 46
+
+time step: 47
+
+time step: 48
+
+time step: 49
+destructor!!
+destructor!
+0.1sec

@@ -21,7 +21,7 @@ int main(int argc, char const *argv[]){
 		int car_capacity, num_car,num_depot,num_bike,bike_capacity=0;
 		car_capacity=0;
 		num_car=0;
-		file_loader("probs/Multi_depot/C100.txt", param, car_capacity,bike_capacity, num_car,num_bike, num_depot,param1);
+		file_loader("probs/Multi_depot/C25.txt", param, car_capacity,bike_capacity, num_car,num_bike, num_depot,param1);
 		Graph* graph = new Graph(param, car_capacity,bike_capacity, num_car, num_bike, num_depot,param1);
 		// graph->run_GreedyAlgorithm();
 		// graph->show_each_car_tour();

@@ -17,9 +17,8 @@ public:
 	int car_speed, now_time;//time windows
 	double car_cost, tour_cost;
 	std::vector <Node> tour; 
-	void add_node(Node*, double**);
+	void add_node(Node*, double**);// constraint with car
 	bool ok_capacity(Node) const;
 	bool ok_time(Node, double**) const;//time windows
 };
-
 #endif

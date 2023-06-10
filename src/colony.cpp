@@ -118,7 +118,6 @@ void Colony::move_ants()
 		else{
 			int next_node_idx;
 			double ran=get_rand();
-			//std::cout<<"phong1"<<ran<<'\n';
 			if (ran < threshold){// choose randomly next node, this prevents local optimization
 			int t=rand() % feasible_edges.size();
 				next_node_idx = feasible_edges[t].second;

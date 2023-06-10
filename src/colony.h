@@ -22,9 +22,12 @@ public:
 	double get_rand() const;
 	double calc_prob(int, int) const;
 	void update_phero_matrix(double&);
+	void update_Private_etha(double&);
+	void update_Private_phero(double&);
 	void update_threshold();
 	void reset_at_each_step();
 	void run_ACO();
+	bool check_posible(int);
 };
 
 // std::vector<std::vector<double> > phero_matrix;
